@@ -1,5 +1,6 @@
 # cube-fe
 Customer Posrtal - Cube React Assignment
+Demo folder consists of screenshot.
 
 # Public API and packages
  Used https://unsplash.com/developers for fetching photos.
