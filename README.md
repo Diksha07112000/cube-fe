@@ -1,5 +1,5 @@
 # cube-fe
-Customer Posrtal - Cube React Assignment
+Customer Portal - Cube React Assignment\
 Demo folder consists of screenshot.
 
 # Public API and packages
